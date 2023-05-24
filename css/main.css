@@ -115,13 +115,13 @@ h6 {
   margin-bottom: 0.4em
 }
 
-/* 18px / 24px */
+/* 18px / 24px 
 h7 {
   margin: 0;
   font-size: 0.5em;
   line-height: 1.3em;
   margin-bottom: 0.5em
-}
+}*/
 
 p, ul, blockquote, pre, th, label {
   margin: 0;
@@ -474,7 +474,7 @@ body {
 
 /* Backgrounds */
 .bg-1 {
-  background-image: url('../images/floor.jpg');
+  background-image: url('../images/fondo.jpg');
 }
 
 /* Header */
@@ -574,7 +574,8 @@ body {
   width: 200px;
   margin-right: 20px;
   margin-left: 50px;
-  margin-top: 70px;
+  margin-top: 100px;
+  
   overflow: hidden;
 }
 
@@ -935,7 +936,7 @@ input[type=text], .project_description, input[type=url] {
     margin: 0;
 }
 
-/* The Modal (background) */
+/* The Modal (background) 
 .modal {
 	display:none;
     position: fixed;
@@ -946,18 +947,18 @@ input[type=text], .project_description, input[type=url] {
     height: 100%;
     overflow: auto;
     background-color: rgba(0,0,0,0.4);
-}
+}*/
 
-/* Modal Content Box */
+/* Modal Content Box 
 .modal-content {
   background-color: #fefefe;
   margin: 1% auto 1% auto;
   border: 1px solid #888;
   width: 30%;
   padding-bottom: 20px;
-}
+}*/
 
-/* The Close Button (x) */
+/* The Close Button (x) 
 .close {
     position: absolute;
     right: 25px;
@@ -969,7 +970,7 @@ input[type=text], .project_description, input[type=url] {
 .close:hover,.close:focus {
     color: red;
     cursor: pointer;
-}
+}*/
 
 /* Add Zoom Animation */
 .animate {
